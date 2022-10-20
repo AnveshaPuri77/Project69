@@ -1,0 +1,23 @@
+#Video{
+    height:500px;
+    width:100%;
+    border: none;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+width: 100%;
+}
+.travel_mainDiv h5,
+ .travel_mainDiv p {
+    margin: 20px;
+}
+.travel_mainDiv{
+    background-color: black;
+}
